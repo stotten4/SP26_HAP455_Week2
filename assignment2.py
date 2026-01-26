@@ -4,7 +4,7 @@ Collaborative Python Assignment
 """
 
 def main():
-    print("Welcome to the Assignement2.1\n")
+    print("Welcome to the Assignment2.1\n")
 
     # ==== STUDENT FUNCTION CALLS ====
     # Add your function call below this line
