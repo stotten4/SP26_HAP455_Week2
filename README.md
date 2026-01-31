@@ -30,7 +30,7 @@ Each student must:
 git --version
 
 
-### git clone - Copy the command below and paste it into your terminal to download the source code
+### git clone - Type the command below into your terminal to download the source code. Replace /PulseInProd/ from the command below with your git username ex: /SRM-M/.
 git clone https://github.com/PulseInProd/SP26_HAP455_Week2
 
 ### Once the clone is complete, move into the project directory:
