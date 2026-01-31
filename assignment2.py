@@ -10,7 +10,7 @@ def main():
     # Add your function call below this line
     # Example:
     lastname_firstname()
-    sin_mal()
+    tah_har()
 
     # ==== END STUDENT FUNCTION CALLS ====
 
@@ -34,6 +34,11 @@ def sin_mal():
     print("Patient Name: Mark Edwin")
     print("Patient Age: 28 years")
     print("Diagnosis: Type 1 Diabates")
+
+def tah_har():
+    print("Patient Name: Mark Zuckerberg")
+    print("Patient Age: 40")
+    print("Diagnosis: Asperger Syndrome")
 
 # ==== END STUDENT CODE SECTION ====
 
