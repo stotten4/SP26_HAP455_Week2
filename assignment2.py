@@ -10,8 +10,9 @@ def main():
     # Add your function call below this line
     # Example:
     lastname_firstname()
-
+    sou_lil()
     # ==== END STUDENT FUNCTION CALLS ====
+
 
 
 # ==== STUDENT CODE SECTION ====
@@ -28,7 +29,13 @@ def lastname_firstname():
     print("Patient Age: 32 years")
     print("Daignosis: Type 2 Diabeties")
 
-
+# Example 2 
+def sou_lil():
+    print('Patient Name: Isabella Snicez')
+    print("Patient ID: 946372")
+    print('Patient Age: 34 years')
+    print('Patient Gender: Female')
+    print('Diagnosis: Hepatitis E')
 # ==== END STUDENT CODE SECTION ====
 
 
