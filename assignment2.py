@@ -18,6 +18,7 @@ def main():
     test_test()
     rob_gab()
     jia_xun()
+    nav_ros()
     # ==== END STUDENT FUNCTION CALLS ====
 
 
@@ -81,6 +82,11 @@ def test_test():
     print("Patient Name: Mark Twain")
     print("Patient Age: 28")
     print("Diagnosis: Hypertension")
+
+def nav_ros():
+    print("Patient Name: Lisa Thompson")
+    print("Patient Age: 52")
+    print("Diagnosis: Heart Disease")
 
 # ==== END STUDENT CODE SECTION ====
 
