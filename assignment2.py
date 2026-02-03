@@ -14,6 +14,7 @@ def main():
     sin_mal()
     abd_oma()
     tah_har()
+    test_test()
     rob_gab()
     jia_xun()
     # ==== END STUDENT FUNCTION CALLS ====
@@ -71,6 +72,10 @@ def rob_gab():
     print("Diagnosis: Cushing's Syndrome")
 
 
+def test_test():
+    print("Patient Name: Mark Twain")
+    print("Patient Age: 28")
+    print("Diagnosis: Hypertension")
 # ==== END STUDENT CODE SECTION ====
 
 
